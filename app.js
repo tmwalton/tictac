@@ -1,6 +1,5 @@
 var player = 0;
 var resultsMatrix = {};
-var resultsKeys = [];
 
 $(document).ready(function(){
 
