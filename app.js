@@ -1,8 +1,6 @@
 var player = 0;
 var resultsMatrix = {};
 var resultsKeys = [];
-//var xPlayerName = prompt("What is player X's name?");
-//var yPlayerName = prompt("What is player Y's name?")
 
 $(document).ready(function(){
 

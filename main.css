@@ -11,6 +11,7 @@ button {
 }
 
 span {
+    cursor: default;
     color: white;
     font-size: 170px;
     margin: 0 auto;
