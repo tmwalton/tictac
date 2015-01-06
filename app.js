@@ -123,6 +123,12 @@ $(document).ready(function(){
         else if(resultsMatrix.square1 == "O" && resultsMatrix.square2 == "O" && resultsMatrix.square6 == "O" && resultsMatrix.square7 == "O" && resultsMatrix.square8 == "O"){
             alert("The game is a tie!!!"); $(".squares").unbind("click");}
 
+        else if(resultsMatrix.square1 == "X" && resultsMatrix.square2 == "X" && resultsMatrix.square6 == "X" && resultsMatrix.square7 == "X" && resultsMatrix.square9 == "X"){
+            alert("The game is a tie!!!"); $(".squares").unbind("click");}
+
+        else if(resultsMatrix.square1 == "O" && resultsMatrix.square2 == "O" && resultsMatrix.square6 == "O" && resultsMatrix.square7 == "O" && resultsMatrix.square9 == "O"){
+            alert("The game is a tie!!!"); $(".squares").unbind("click");}
+
 
     });
 
