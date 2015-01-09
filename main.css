@@ -1,3 +1,7 @@
+body {
+    background: #4488FC;
+}
+
 button {
     height: 50px;
     width: 100px;
@@ -27,7 +31,7 @@ span {
     text-align: center;
     height: 150px;
     width: 150px;
-    background: red;
+    background: white;
     float: left;
     margin: 10px;
 
