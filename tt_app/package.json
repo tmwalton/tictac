@@ -1,0 +1,9 @@
+{
+  "name": "tic-tac-toe",
+  "version": "0.0.1",
+  "description": "First socket.io app",
+  "dependencies": {
+    "express": "^4.10.2",
+    "node-static": "^0.7.6"
+  }
+}
